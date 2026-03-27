@@ -3,11 +3,11 @@ title: Welcome to the world of RiftWilds
 tags:
 ---
 
-# Sessions
+# Sessions  
 -[[Session 1]]
-# Cities
+# Cities  
 -[[Safe]]
-# NPC
--[[Garrick Thorne]]
--[[Elias Rook]]
--[[Lira Voss]]
+# NPC  
+-[[Garrick Thorne]]  
+-[[Elias Rook]]  
+-[[Lira Voss]]  
