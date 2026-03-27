@@ -7,3 +7,6 @@ tags:
 <p>[[Session 1]]</p>
 <p>#Cities</p>
 <p>#NPC</p>
+-[[Garrick Thorne]]
+-[[Elias Rook]]
+-[[Lira Voss]]
