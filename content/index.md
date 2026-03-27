@@ -4,7 +4,7 @@ tags:
 ---
 
 <p>#Sessions</p>
-<p>[[Session 1]]</p>
+-[[Session 1]]
 <p>#Cities</p>
 <p>#NPC</p>
 -[[Garrick Thorne]]
