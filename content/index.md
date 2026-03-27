@@ -1,7 +1,10 @@
 ---
 title: Welcome to the world of RiftWilds
+tags:
 ---
-#Cities
-#NPC
+
 #Sessions
 [[Session 1]]
+#Cities
+#NPC
+
