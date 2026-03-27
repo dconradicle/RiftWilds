@@ -1,6 +1,7 @@
 ---
 title: Welcome to the world of RiftWilds
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+#Cities
+#NPC
+#Sessions
+[[Session 1]]
