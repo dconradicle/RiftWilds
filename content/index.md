@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the world of RiftWilds
 ---
 
 This is a blank Quartz installation.
