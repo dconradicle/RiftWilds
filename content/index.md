@@ -7,4 +7,3 @@ tags:
 <p>[[Session 1]]</p>
 <p>#Cities</p>
 <p>#NPC</p>
-
