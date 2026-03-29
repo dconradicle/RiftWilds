@@ -1,0 +1,1 @@
+Fade line is a decently sized town that is right on the border of where magic works and where it doesn't. It attracts all sorts of people either investigating the phenomenon or 
