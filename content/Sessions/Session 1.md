@@ -2,4 +2,4 @@ You walk onto the open platform. The wooden deck creaking under your boots. You 
 
 The hiss of the small engine fills the air. The engine named old faithful was a marvelous invention that seems to barely be working. It groans under the pressure of the steam engine, it creaks for no reason you can tell.
 
-The large engine was only carrying 2 other carts. 1 passenger 
+The large engine was only carrying 2 other carts. 1 passenger and 1 luggage. Most people bring lots of inventory to The Fade Line

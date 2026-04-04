@@ -14,3 +14,4 @@
 
 - Missing two fingers (old machinery accident)
 - Constantly tapping a wrench against things
+- Works for the Hewert Company 
