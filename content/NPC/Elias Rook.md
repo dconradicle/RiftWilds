@@ -1,4 +1,4 @@
-![[ChatGPT Image Apr 1, 2026, 10_38_45 PM.png]]### **Name:** **Elias Rook**
+## ![[ChatGPT Image Apr 1, 2026, 10_38_45 PM.png]]**Name:** **Elias Rook**
 
 - Pale, observant, avoids eye contact
 - Speaks very little… until rifts are mentioned
