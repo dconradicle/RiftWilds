@@ -1,0 +1,1 @@
+An odd looking club with a metal rod in the center. Each day you can spend a shift? to study it to gain knowledge of it. After 4 successful study sessions further details will be given by the DM

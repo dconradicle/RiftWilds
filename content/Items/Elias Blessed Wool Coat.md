@@ -1,0 +1,1 @@
+This wool coat will negate any effects that the plane of existence might force onto the wearer. It will also give favor to any check related to rifts
